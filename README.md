@@ -1,11 +1,13 @@
-## Hi there 👋
+# Hi, I'm PHGS 👋# Hi, I'm PHGS 👋
+Welcome to my GitHub profile!
 
-<!--
-**PHGS971/PHGS971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔧 Creator of CYA HUB
+- 🎮 Roblox Script Developer
+- 🌐 Web Developer
 
-Here are some ideas to get you started:
+[Visit my website](https://aibuild1.wordpress.com)
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on lua
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
