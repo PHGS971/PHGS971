@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://discord.com/users/654098103980523521">
-    <img src="https://lanyard.cnrad.dev/api/654098103980523521" alt="Discord Presence">
+  <a href="https://discord.com/users/1368708814207189169">
+    <img src="https://lanyard.cnrad.dev/api/1368708814207189169" alt="Discord Presence">
   </a>
 </div>
 <h1 align="center">Hello 👋, I'm PHGS!</h1>
