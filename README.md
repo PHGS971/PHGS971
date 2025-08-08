@@ -56,9 +56,10 @@ Hobbies: create scripts and cheating us games.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PHGS971&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHGS971&layout=compact&langs_count=8&theme=dark"/>
 </div>
+--------------------------------------------------------------------------------------------------------------------------
+<div align="center">
 
----
+<!-- Card com streak de contribuições -->
+![Meu streak](https://github-readme-streak-stats.herokuapp.com/?user=PHGS971&theme=dark)
 
-## 🔗 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/phgsphgs2456)
----
+</div>
