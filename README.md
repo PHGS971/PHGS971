@@ -35,6 +35,17 @@
 ```zsh
 > 💻CYA HUB⚒️
 ```
+```lua
+PHGS971@GitHub
+▔▔▔▔▔▔▔▔▔
+OS: Linux
+model: Redmi A5
+Location: Brasil, SP
+Learning: HTML, Lua, JavaScript
+Languages: lua,HTML
+Hobbies: create scripts and cheating us games.
+```
+
 
 
 ## 📊 GitHub Stats
