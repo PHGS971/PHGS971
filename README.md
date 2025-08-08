@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=header"/>
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFF517&section=header"/>
 
 <div align="center">
   <a href="https://discord.com/users/1368708814207189169">
@@ -16,19 +16,19 @@
 
 ## 🔧 Tech & Tools
 ### Languages:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Luau](https://img.shields.io/badge/Luau-0096FF?style=for-the-badge)
 ![Lua](https://img.shields.io/badge/Lua-0096FF?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-0096FF?style=for-the-badge)
 
-### Backend & Database:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![SQLite](https://img.shields.io/badge/-sqlite-47A248?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/-mysql-336791?style=for-the-badge&logo=mysql&logoColor=white)
+### Databases
+
+![Firebase](https://img.shields.io/badge/FireBase-0096FF?style=for-the-badge)
+
 
 ### Tools:
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+![SPKeditor](https://img.shields.io/badge/SPKeditor-0096FF?style=for-the-badge)
+
 ---
 
 ## 📊 GitHub Stats
