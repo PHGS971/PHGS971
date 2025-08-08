@@ -1,3 +1,5 @@
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=header"/>
+
 <div align="center">
   <a href="https://discord.com/users/1368708814207189169">
     <img src="https://lanyard.cnrad.dev/api/1368708814207189169" alt="Discord Presence">
