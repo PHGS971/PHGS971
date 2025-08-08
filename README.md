@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFF517&section=header"/>
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=#A62107&section=header"/>
 
 <div align="center">
   <a href="https://discord.com/users/1368708814207189169">
