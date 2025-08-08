@@ -63,3 +63,10 @@ Hobbies: create scripts and cheating us games.
 ![Meu streak](https://github-readme-streak-stats.herokuapp.com/?user=PHGS971&theme=dark)
 
 </div>
+|--|--|
+
+<br>
+<p align="center">
+    <a href="#"><img src="https://komarev.com/ghpvc/?username=DarkMode&style=for-the-badge&label=Views:&color=gray"/></a>
+    <a href="#"><img src="https://custom-icon-badges.herokuapp.com/github/followers/DarkModde?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follows&logoColor=white"/></a>
+</p>
