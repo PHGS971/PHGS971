@@ -1,7 +1,8 @@
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=#A62107&section=header"/>
-<a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=30&pause=2000&color=#A62107&center=true&vCenter=true&width=1000&height=60&lines=Ol%C3%A1%2C+tudo+bem%3F+Me+chamo+PHGS!;Seja+bem-vindo(a)+ao+meu+perfil."/>
-
 <div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=003FFF00&width=435&lines=Ol%C3%A1+sou+PHGS!;Bem+vindo(a)+ao+meu+perfil!" alt="Typing SVG" /></a>
+
+
   <a href="https://discord.com/users/1368708814207189169">
     <img src="https://lanyard.cnrad.dev/api/1368708814207189169" alt="Discord Presence">
   </a>
