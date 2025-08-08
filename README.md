@@ -32,6 +32,9 @@
 ![SPKeditor](https://img.shields.io/badge/SPKeditor-0096FF?style=for-the-badge)
 ---
 
+
+<a href="#"><img align="left" src="https://cdn.discordapp.com/avatars/1368708814207189169/33992dd24afd97f09ed46fe2f8b29a2a.png?size=2048" width="20%"/> 
+
 ```zsh
 > 💻CYA HUB⚒️
 ```
