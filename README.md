@@ -1,5 +1,4 @@
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=#A62107&section=header"/>
-<div align="center">
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=PHGS%20PROFILE&descAlign=59&descAlignY=65&desc=PHGS%20CYA%20STUDIOS
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=003FFF00&width=435&lines=Ol%C3%A1+sou+PHGS!;Bem+vindo(a)+ao+meu+perfil!" alt="Typing SVG" /></a>
 
 
