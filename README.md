@@ -70,3 +70,27 @@ Hobbies: create scripts and cheating us games.
     <a href="#"><img src="https://komarev.com/ghpvc/?username=PHGS971&style=for-the-badge&label=Views:&color=gray"/></a>
     <a href="#"><img src="https://custom-icon-badges.herokuapp.com/github/followers/PHGS971?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follows&logoColor=white"/></a>
 </p>
+
+## about CYA STUDIOS PT-BR
+- Uma equipe se scripts Para jogos incluindo universais e outros
+Status
+
+```zsh
+> CYA STUDIOS 🔥 
+```
+```CYA FOUNDER
+CYA FOUNDER
+Creator: PHGS971 PHGS 
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+CYA STUDIOS HUB: 🔐🟢
+CYA HUB:🔐🟢
+```
+```zsh
+ScriptBlox:
+CYA STUDIOS HUB:🟢
+CYA HUB🔴
+```
+>## see you later user...
+>>**see you later user...**
+>>>*see you later user...*
+>>>>see you later user...
